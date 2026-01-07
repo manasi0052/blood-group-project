@@ -19,19 +19,22 @@ The system uses a **Convolutional Neural Network (CNN)** for prediction and a **
 
 ## 📂 Project Structure
 
+
+```text
 blood_group_project/
 ├── flask_app/
-│ ├── app.py
-│ ├── model.py
-│ ├── model/
-│ │ └── final_cnn.h5 (not included on GitHub)
-│ ├── templates/
-│ │ └── index.html
-│ ├── uploads/ (created automatically at runtime)
-│ | dataset/ (user-added, ignored by git)
-│ └── cnn_training.ipynb
+│   ├── app.py
+│   ├── model.py
+│   ├── model/
+│   │   └── final_cnn.h5        (not included on GitHub)
+│   ├── templates/
+│   │   └── index.html
+│   ├── uploads/               (created automatically at runtime)
+│   ├── dataset/               (user-added, ignored by git)
+│   └── cnn_training.ipynb
 ├── README.md
 ├── .gitignore
+
 
 --
 
