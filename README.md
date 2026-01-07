@@ -61,7 +61,7 @@ flask_app/model/final_cnn.h5
 
 ▶️ How to Run (One-Line Steps)
 
-- Clone the project: git clone https://github.com/<your-username>/blood-group-project.git && cd blood-group-project
+- Clone the project: git clone https://github.com/manasi0052/blood-group-project.git && cd blood-group-project
 - Install dependencies: pip install -r requirements.txt
 - Add trained model at flask_app/model/final_cnn.h5
 - Start the app: cd flask_app && py app.py
