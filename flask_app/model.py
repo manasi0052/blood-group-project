@@ -46,3 +46,4 @@ def model_predict(image_array):
         'blood_type': class_labels[idx],
         'confidence': round(float(preds[idx]) * 100, 2)
     }
+
