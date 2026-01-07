@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# ===============================
+# Ignore trained ML model files
+# ===============================
+flask_app/model/*.h5
+
+
+# Virtual environment / secrets
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle dataset (DO NOT UPLOAD)
+dataset/
+
+# Flask runtime uploads
+uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
