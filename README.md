@@ -35,8 +35,7 @@ blood_group_project/
 ├── README.md
 ├── .gitignore
 
-
---
+---
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle and is not included
